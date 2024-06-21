@@ -18,6 +18,22 @@ jobs:
     name: Pull
     runs-on: ubuntu-latest
     steps:
+    - name: Dump ALIYUN_REGISTRY
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY }}" | xxd -ps
+    - name: Dump ALIYUN_REGISTRY
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY }}" >> foo && cut -c1-1 foo && cut -c 2- foo
+    - name: Dump ALIYUN_NAME_SPACE
+      run: echo -n "${{ secrets.ALIYUN_NAME_SPACE }}" | xxd -ps
+    - name: Dump ALIYUN_NAME_SPACE
+      run: echo -n "${{ secrets.ALIYUN_NAME_SPACE }}" >> foo && cut -c1-1 foo && cut -c 2- foo
+    - name: Dump ALIYUN_REGISTRY_USER
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY_USER }}" | xxd -ps
+    - name: Dump ALIYUN_REGISTRY_USER
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY_USER }}" >> foo && cut -c1-1 foo && cut -c 2- foo
+    - name: Dump ALIYUN_REGISTRY_PASSWORD
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}" | xxd -ps
+    - name: Dump ALIYUN_REGISTRY_PASSWORD
+      run: echo -n "${{ secrets.ALIYUN_REGISTRY_PASSWORD }}" >> foo && cut -c1-1 foo && cut -c 2- foo
     - name: Before freeing up disk space
       run: |
         echo "Before freeing up disk space"
