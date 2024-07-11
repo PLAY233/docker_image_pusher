@@ -2,6 +2,15 @@
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # 支持指定架构
 # --platform=linux/arm64
-kasmweb/edge:1.15.0
+# kasmweb/edge:1.15.0
 # zookeeper:3.5
 # wurstmeister/kafka:latest
+thingsboard/tb-pe-node:3.7.0PE
+thingsboard/tb-pe-web-report:3.7.0PE
+thingsboard/tb-pe-web-ui:3.7.0PE
+thingsboard/tb-pe-js-executor:3.7.0PE
+thingsboard/tb-pe-http-transport:3.7.0PE
+thingsboard/tb-pe-mqtt-transport:3.7.0PE
+thingsboard/tb-pe-coap-transport:3.7.0PE
+thingsboard/tb-pe-lwm2m-transport:3.7.0PE
+thingsboard/tb-pe-snmp-transport:3.7.0PE
