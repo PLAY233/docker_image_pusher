@@ -20,6 +20,6 @@
 # zookeeper:3.8.0
 # cassandra:4.1
 # bitnami/kafka:3.7.0
-thingsboard/tb-vc-executor:3.7.0PE
+thingsboard/tb-vc-executor:3.7.0
 thingsboard/haproxy-certbot:2.2.33-alpine
 prom/prometheus:v2.1.0
