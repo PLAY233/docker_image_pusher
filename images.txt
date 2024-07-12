@@ -23,4 +23,6 @@
 # thingsboard/tb-pe-vc-executor:3.7.0PE
 # thingsboard/haproxy-certbot:2.2.33-alpine
 # prom/prometheus:v2.53.1
-zlmediakit/zlmediakit:master
+# zlmediakit/zlmediakit:master
+
+thingsboard/tb-pe:3.7.0PE
