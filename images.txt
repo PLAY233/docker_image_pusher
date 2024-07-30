@@ -25,4 +25,9 @@
 # prom/prometheus:v2.53.1
 # zlmediakit/zlmediakit:master
 
-thingsboard/tb-pe:3.7.0PE
+# thingsboard/tb-pe:3.7.0PE
+
+alpine:3.20.2
+nginx:1.18-alpine
+redis:5.0.7-alpine
+python:3.8-alpine
