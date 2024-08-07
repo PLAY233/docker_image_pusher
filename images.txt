@@ -32,4 +32,7 @@
 # redis:5.0.7-alpine
 # python:3.8-alpine
 # golang:1.22.5-bullseye
-sinamics/ztnet:0.6.7
+# sinamics/ztnet:0.6.7
+tdragon6/supershell_flask:v2.0.0
+tdragon6/supershell_rssh:v2.0.0
+tdragon6/supershell_shell:v2.0.0
