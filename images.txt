@@ -15,7 +15,7 @@
 # thingsboard/tb-pe-lwm2m-transport:3.7.0PE
 # thingsboard/tb-pe-snmp-transport:3.7.0PE
 
-#bitnami/redis:7.2
+# bitnami/redis:7.2
 
 # zookeeper:3.8.0
 # cassandra:4.1
@@ -31,4 +31,5 @@
 # nginx:1.18-alpine
 # redis:5.0.7-alpine
 # python:3.8-alpine
-golang:1.22.5-bullseye
+# golang:1.22.5-bullseye
+sinamics/ztnet:0.6.7
