@@ -37,6 +37,7 @@
 # tdragon6/supershell_rssh:v2.0.0
 # tdragon6/supershell_shell:v2.0.0
 # rustdesk/rustdesk-server-pro:1.4.1
-nginx:1.27
-redis:7.4
-debian:bookworm
+# nginx:1.27
+# redis:7.4
+# debian:bookworm
+debian:bullseye
