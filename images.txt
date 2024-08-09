@@ -41,4 +41,4 @@
 # redis:7.4
 # debian:bookworm
 # debian:bullseye
-python:3.12.5-bookworm
+python:3.12.5-bullseye
