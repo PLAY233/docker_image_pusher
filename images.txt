@@ -42,3 +42,4 @@ redis:7.4-alpine
 # debian:bookworm
 # debian:bullseye
 # python:3.12.5-bullseye
+portainer/portainer-ce:2.20.3
