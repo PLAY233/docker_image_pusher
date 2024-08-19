@@ -36,10 +36,10 @@
 # tdragon6/supershell_flask:v2.0.0
 # tdragon6/supershell_rssh:v2.0.0
 # tdragon6/supershell_shell:v2.0.0
-# rustdesk/rustdesk-server-pro:1.4.1
-nginx:1.27-alpine
-redis:7.4-alpine
+rustdesk/rustdesk-server-pro:1.4.3
+# nginx:1.27-alpine
+# redis:7.4-alpine
 # debian:bookworm
 # debian:bullseye
 # python:3.12.5-bullseye
-portainer/portainer-ce:2.20.3
+# portainer/portainer-ce:2.20.3
