@@ -32,11 +32,12 @@
 # redis:5.0.7-alpine
 # python:3.8-alpine
 # golang:1.22.5-bullseye
-# sinamics/ztnet:0.6.7
+zyclonite/zerotier:1.14.0
+sinamics/ztnet:0.6.10
 # tdragon6/supershell_flask:v2.0.0
 # tdragon6/supershell_rssh:v2.0.0
 # tdragon6/supershell_shell:v2.0.0
-rustdesk/rustdesk-server-pro:1.4.3
+# rustdesk/rustdesk-server-pro:1.4.3
 # nginx:1.27-alpine
 # redis:7.4-alpine
 # debian:bookworm
