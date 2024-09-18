@@ -32,8 +32,8 @@
 # redis:5.0.7-alpine
 # python:3.8-alpine
 # golang:1.22.5-bullseye
-zyclonite/zerotier:1.14.0
-sinamics/ztnet:0.6.10
+# zyclonite/zerotier:1.14.0
+# sinamics/ztnet:0.6.10
 # tdragon6/supershell_flask:v2.0.0
 # tdragon6/supershell_rssh:v2.0.0
 # tdragon6/supershell_shell:v2.0.0
@@ -44,3 +44,4 @@ sinamics/ztnet:0.6.10
 # debian:bullseye
 # python:3.12.5-bullseye
 # portainer/portainer-ce:2.20.3
+kasmweb/firefox:1.16.0
