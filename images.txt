@@ -44,4 +44,5 @@
 # debian:bullseye
 # python:3.12.5-bullseye
 # portainer/portainer-ce:2.20.3
-kasmweb/firefox:1.16.0
+# kasmweb/firefox:1.16.0
+jellyfin/jellyfin:2024112505
