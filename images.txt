@@ -46,4 +46,5 @@
 # portainer/portainer-ce:2.20.3
 # kasmweb/firefox:1.16.0
 # jellyfin/jellyfin:2024112505
-centos:7.6.1810
+# centos:7.6.1810
+sickcodes/docker-osx:latest
